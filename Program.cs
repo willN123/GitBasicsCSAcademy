@@ -1,5 +1,17 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hi there, C# Academy! Updating from inside github.");
-Console.WriteLine("Hi there, C# Academy! Updating from inside github.");
-Console.WriteLine("Hi there, C# Academy! Updating from inside github.");
-Console.WriteLine("Hi there, C# Academy! Updating from inside github.");
+
+void FirstMethod()
+{
+    //Does something
+}
+
+void SecondMethod()
+{
+    //Does something
+}
+
+void ThirdMethod()
+{
+    //Does something
+}
